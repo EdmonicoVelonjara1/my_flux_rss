@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mon Flux RSS</title>
+    <link>https://www.mon-site.com</link>
+    <description>Voici un exemple de flux RSS.</description>
+    <item>
+      <title>Article 1</title>
+      <link>https://www.mon-site.com/article1</link>
+      <description>Ceci est la description de l'article 1.</description>
+      <pubDate>Wed, 17 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Article 2</title>
+      <link>https://www.mon-site.com/article2</link>
+      <description>Ceci est la description de l'article 2.</description>
+      <pubDate>Wed, 17 Oct 2024 11:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
